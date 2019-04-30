@@ -1,5 +1,5 @@
 # ProjetoCrudProgJr
-Projeto desenvolvido para o processo de seleção Flex Peak tecnologia. Candidato Júlio Rezende
+Projeto desenvolvido para teste.  Júlio Rezende
 
 # - 1:
 Adicione o banco de dados no mysql e a configure o conexão.php para iniciar o crud
